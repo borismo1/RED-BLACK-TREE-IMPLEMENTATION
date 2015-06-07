@@ -1,7 +1,7 @@
 // Name: Boris Morozov 
 // I.D.: 314396177
 //
-// i'm sorry i wasn't able to find a partner because i started doing it to late everyone already had partners .
+
 
 
 /**
